@@ -1,0 +1,21 @@
+{
+    "kauan":{
+        "id": "GN001",
+        "nome": "kauan",
+        "senha": "kauan001",
+        "perfil": "GN"
+    },
+    "samuel":{
+        "id": "GA001",
+        "nome": "samuel",
+        "senha": "samuel001",
+        "perfil": "GA"
+    },
+    "ana":{
+        "id": "CAD001",
+        "nome": "ana",
+        "senha": "ana001",
+        "perfil": "CAD"
+    }
+
+}
